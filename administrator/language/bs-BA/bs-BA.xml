@@ -2,8 +2,13 @@
 <metafile version="3.9" client="administrator">
 	<tag>bs-BA</tag>
 	<name>Bosnian (bs-BA)</name>
+<<<<<<< Updated upstream
 	<version>3.9.1</version>
 	<creationDate>Nov 2018</creationDate>
+=======
+	<version>3.9.10</version>
+	<creationDate>Jul 2019</creationDate>
+>>>>>>> Stashed changes
 	<author>Joomla! BA Translation Team</author>
 	<authorEmail>dantes.delic@joomla.ba</authorEmail>
 	<authorUrl>www.joomla.ba</authorUrl>
